@@ -114,6 +114,7 @@ import com.android.systemui.wallpapers.dagger.WallpaperModule;
 
 import com.google.android.systemui.battery.BatterySaverModuleGoogle;
 import com.google.android.systemui.gesture.GestureModuleGoogle;
+import com.google.android.systemui.keyguard.refreshrate.RefreshRateRequesterBinder;
 import com.google.android.systemui.power.dagger.PowerModuleGoogle;
 import com.google.android.systemui.smartspace.BcSmartspaceDataProvider;
 import com.google.android.systemui.smartspace.DateSmartspaceDataProvider;
@@ -336,6 +337,12 @@ public abstract class SystemUIGoogleModule {
     @ClassKey(KeyguardSmartspaceStartable.class)
     abstract CoreStartable bindKeyguardSmartspaceStartable(
             KeyguardSmartspaceStartable startable);
+
+    @Binds
+    @IntoMap
+    @ClassKey(RefreshRateRequesterBinder.class)
+    abstract CoreStartable bindRefreshRateRequesterBinder(
+            RefreshRateRequesterBinder impl);
 
     @Binds
     abstract ThemeOverlayController bindThemeOverlayController(
