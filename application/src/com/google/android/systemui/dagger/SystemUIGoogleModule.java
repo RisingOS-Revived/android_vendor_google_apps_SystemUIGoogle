@@ -61,7 +61,6 @@ import com.android.systemui.media.nearby.NearbyMediaDevicesManager;
 import com.android.systemui.minmode.MinModeManager;
 import com.android.systemui.minmode.MinModeManagerImpl;
 import com.android.systemui.navigationbar.NavigationBarControllerModule;
-import com.android.systemui.navigationbar.gestural.GestureModule;
 import com.android.systemui.plugins.BcSmartspaceDataPlugin;
 import com.android.systemui.plugins.qs.QSFactory;
 import com.android.systemui.qs.QSFragmentStartableModule;
@@ -114,6 +113,7 @@ import com.android.systemui.util.kotlin.SysUICoroutinesModule;
 import com.android.systemui.volume.dagger.VolumeModule;
 import com.android.systemui.wallpapers.dagger.WallpaperModule;
 
+import com.google.android.systemui.gesture.GestureModuleGoogle;
 import com.google.android.systemui.power.dagger.PowerModuleGoogle;
 import com.google.android.systemui.smartspace.BcSmartspaceDataProvider;
 import com.google.android.systemui.smartspace.DateSmartspaceDataProvider;
@@ -160,7 +160,7 @@ import javax.inject.Provider;
         ImeSwitcherMenuModule.class,
         DisplayPhoneModule.class,
         EmergencyGestureModule.class,
-        GestureModule.class,
+        GestureModuleGoogle.class,
         HeadsUpModule.class,
         KeyguardModule.class,
         KeyguardBlueprintModule.class,
