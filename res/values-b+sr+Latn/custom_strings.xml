@@ -8,4 +8,15 @@
     <string name="music_controls_no_title">Bez naslova</string>
     <string name="smartspace_content_desc">Kratak pregled</string>
     <string name="smartspace_flight_qr_code">QR kôd</string>
+
+    <!-- Battery Warnings -->
+    <string name="low_battery_notification_title">Nivo baterije: %s</string>
+    <string name="low_battery_notification_text">Uključite uštedu baterije da biste produžili trajanje baterije</string>
+    <string name="low_battery_notification_text_ebs">Uključite Ekstremnu uštedu baterije radi dužeg trajanja baterije</string>
+    <string name="severe_battery_notification_title">Nivo baterije: %s</string>
+    <string name="severe_battery_notification_text">Uključite ekstremnu uštedu baterije. Time se pauziraju sve aplikacije koje nisu neophodne</string>
+    <string name="severe_battery_notification_switch_text">Želite da pređete na ekstremnu uštedu baterije? \n\nTime se pauziraju sve aplikacije koje nisu neophodne i njihova obaveštenja</string>
+    <string name="severe_low_battery_dialog_switch_action_text">Prebaci</string>
+    <string name="extreme_low_battery_notification_title">Baterija je na izmaku</string>
+    <string name="extreme_low_battery_notification_text">Telefon će se isključiti ako uskoro ne počnete da ga punite</string>
 </resources>

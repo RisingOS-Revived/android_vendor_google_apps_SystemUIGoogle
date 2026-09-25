@@ -8,4 +8,15 @@
     <string name="music_controls_no_title">Tiada tajuk</string>
     <string name="smartspace_content_desc">Sekilas pandang</string>
     <string name="smartspace_flight_qr_code">Kod QR</string>
+
+    <!-- Battery Warnings -->
+    <string name="low_battery_notification_title">Baki bateri %s</string>
+    <string name="low_battery_notification_text">Hidupkan Penjimat Bateri untuk melanjutkan hayat bateri</string>
+    <string name="low_battery_notification_text_ebs">Hidupkan Penjimat Bateri Ekstrem untuk melanjutkan hayat bateri</string>
+    <string name="severe_battery_notification_title">Baki bateri %s</string>
+    <string name="severe_battery_notification_text">Hidupkan Penjimat Bateri Ekstrem. Ciri ini akan menjeda semua apl yang tidak penting</string>
+    <string name="severe_battery_notification_switch_text">Tukar kepada Penjimat Bateri Ekstrem? \n\nCiri ini akan menjeda semua apl yang tidak penting dan pemberitahuan apl tersebut</string>
+    <string name="severe_low_battery_dialog_switch_action_text">Tukar</string>
+    <string name="extreme_low_battery_notification_title">Bateri sangat lemah</string>
+    <string name="extreme_low_battery_notification_text">Telefon anda akan dimatikan jika tidak dicas segera</string>
 </resources>

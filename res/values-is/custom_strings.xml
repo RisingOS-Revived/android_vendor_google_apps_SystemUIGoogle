@@ -8,4 +8,15 @@
     <string name="music_controls_no_title">Enginn titill</string>
     <string name="smartspace_content_desc">Í fljótu bragði</string>
     <string name="smartspace_flight_qr_code">QR-kóði</string>
+
+    <!-- Battery Warnings -->
+    <string name="low_battery_notification_title">%s rafhleðsla eftir</string>
+    <string name="low_battery_notification_text">Kveiktu á rafhlöðusparnaði til að auka endingu rafhlöðunnar</string>
+    <string name="low_battery_notification_text_ebs">Kveiktu á ofurrafhlöðusparnaði til að auka endingu rafhlöðunnar</string>
+    <string name="severe_battery_notification_title">%s eftir af rafhlöðu</string>
+    <string name="severe_battery_notification_text">Kveikja á ofurrafhlöðusparnaði. Þetta gerir hlé á ónauðsynlegum forritum</string>
+    <string name="severe_battery_notification_switch_text">Skipta yfir í ofurrafhlöðusparnað? \n\nÞetta gerir hlé á ónauðsynlegum forritum og tilkynningum frá þeim</string>
+    <string name="severe_low_battery_dialog_switch_action_text">Skipta</string>
+    <string name="extreme_low_battery_notification_title">Mjög lítil hleðsla</string>
+    <string name="extreme_low_battery_notification_text">Ef síminn er ekki hlaðinn fljótlega mun slokkna á honum</string>
 </resources>

@@ -8,4 +8,15 @@
     <string name="music_controls_no_title">Geen titel</string>
     <string name="smartspace_content_desc">Snel overzicht</string>
     <string name="smartspace_flight_qr_code">QR-code</string>
+
+    <!-- Battery Warnings -->
+    <string name="low_battery_notification_title">Nog %s batterijlading over</string>
+    <string name="low_battery_notification_text">Zet Batterijbesparing aan om de batterijduur te verlengen</string>
+    <string name="low_battery_notification_text_ebs">Zet Extreme batterijbesparing aan om de batterijduur te verlengen</string>
+    <string name="severe_battery_notification_title">Nog %s batterijlading over</string>
+    <string name="severe_battery_notification_text">Zet Extreme batterijbesparing aan. Hiermee worden alle niet-essentiële apps gepauzeerd.</string>
+    <string name="severe_battery_notification_switch_text">Overschakelen naar Extreme batterijbesparing? \n\nHiermee worden alle niet-essentiële apps en hun meldingen gepauzeerd.</string>
+    <string name="severe_low_battery_dialog_switch_action_text">Aanzetten</string>
+    <string name="extreme_low_battery_notification_title">Batterij bijna leeg</string>
+    <string name="extreme_low_battery_notification_text">Je telefoon gaat uit als deze niet snel wordt opgeladen</string>
 </resources>

@@ -8,4 +8,15 @@
     <string name="music_controls_no_title">कोई टाइटल नहीं</string>
     <string name="smartspace_content_desc">एक नज़र में</string>
     <string name="smartspace_flight_qr_code">क्यूआर कोड</string>
+
+    <!-- Battery Warnings -->
+    <string name="low_battery_notification_title">बैटरी %s बची है</string>
+    <string name="low_battery_notification_text">बैटरी लाइफ़ बढ़ाने के लिए, बैटरी सेवर की सुविधा को चालू करें</string>
+    <string name="low_battery_notification_text_ebs">बैटरी लाइफ़ बढ़ाने के लिए, एक्स्ट्रीम बैटरी सेवर चालू करें</string>
+    <string name="severe_battery_notification_title">%s बैटरी बची है</string>
+    <string name="severe_battery_notification_text">एक्स्ट्रीम बैटरी सेवर मोड चालू करें. यह सभी गै़र-ज़रूरी ऐप्लिकेशन की गतिविधियों को रोक देगा</string>
+    <string name="severe_battery_notification_switch_text">क्या आपको एक्स्ट्रीम बैटरी सेवर मोड पर स्विच करना है? \n\nयह सभी गै़र-ज़रूरी ऐप्लिकेशन और उनकी सूचनाओं को रोक देगा</string>
+    <string name="severe_low_battery_dialog_switch_action_text">स्विच करें</string>
+    <string name="extreme_low_battery_notification_title">बैटरी बहुत कम है</string>
+    <string name="extreme_low_battery_notification_text">फ़ोन को जल्दी चार्ज करें, नहीं तो यह बंद हो जाएगा</string>
 </resources>

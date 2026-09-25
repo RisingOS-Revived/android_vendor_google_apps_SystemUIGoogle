@@ -8,4 +8,15 @@
     <string name="music_controls_no_title">Senza titolo</string>
     <string name="smartspace_content_desc">Riepilogo</string>
     <string name="smartspace_flight_qr_code">Codice QR</string>
+
+    <!-- Battery Warnings -->
+    <string name="low_battery_notification_title">Batteria rimanente: %s</string>
+    <string name="low_battery_notification_text">Attiva il Risparmio energetico per prolungare la durata della batteria</string>
+    <string name="low_battery_notification_text_ebs">Attiva il Risparmio Energetico Estremo per prolungare la durata della batteria</string>
+    <string name="severe_battery_notification_title">Batteria rimanente: %s</string>
+    <string name="severe_battery_notification_text">Attiva il Risparmio Energetico Estremo. Le app non essenziali verranno messe in pausa</string>
+    <string name="severe_battery_notification_switch_text">Vuoi passare al Risparmio Energetico Estremo? \n\nLe app non essenziali e le relative notifiche verranno messe in pausa</string>
+    <string name="severe_low_battery_dialog_switch_action_text">Attiva</string>
+    <string name="extreme_low_battery_notification_title">Batteria quasi esaurita</string>
+    <string name="extreme_low_battery_notification_text">Il tuo telefono si spegnerà se non verrà ricaricato a breve</string>
 </resources>

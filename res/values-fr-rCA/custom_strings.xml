@@ -8,4 +8,15 @@
     <string name="music_controls_no_title">Sans titre</string>
     <string name="smartspace_content_desc">Aperçu</string>
     <string name="smartspace_flight_qr_code">Code QR</string>
+
+    <!-- Battery Warnings -->
+    <string name="low_battery_notification_title">%s d\'autonomie de la pile</string>
+    <string name="low_battery_notification_text">Activez l\'économiseur de pile pour prolonger l\'autonomie de la pile</string>
+    <string name="low_battery_notification_text_ebs">Activez l\'Économiseur de pile extrême pour prolonger l\'autonomie de la pile</string>
+    <string name="severe_battery_notification_title">%s d\'autonomie de la pile</string>
+    <string name="severe_battery_notification_text">Activez l\'Économiseur de pile extrême. Cette opération mettra en pause toutes les applis non essentielles</string>
+    <string name="severe_battery_notification_switch_text">Activer l\'Économiseur de pile extrême? \n\nCette opération mettra en pause toutes les applis non essentielles et leurs notifications</string>
+    <string name="severe_low_battery_dialog_switch_action_text">Basculer</string>
+    <string name="extreme_low_battery_notification_title">Pile très faible</string>
+    <string name="extreme_low_battery_notification_text">Votre téléphone s\'éteindra s\'il n\'est pas bientôt rechargé</string>
 </resources>

@@ -8,4 +8,15 @@
     <string name="music_controls_no_title">Без наслов</string>
     <string name="smartspace_content_desc">На прв поглед</string>
     <string name="smartspace_flight_qr_code">QR-код</string>
+
+    <!-- Battery Warnings -->
+    <string name="low_battery_notification_title">Преостануваат уште %s од батеријата</string>
+    <string name="low_battery_notification_text">Вклучете „Штедач на батерија“ за да се продолжи траењето на батеријата</string>
+    <string name="low_battery_notification_text_ebs">Вклучете екстремен „Штедач на батерија“ за да го продолжи траењето на батеријата</string>
+    <string name="severe_battery_notification_title">Преостануваат уште %s од батеријата</string>
+    <string name="severe_battery_notification_text">Вклучете го „Екстремниот штедач на батерија“. Ова ќе ги паузира сите апликации што не се неопходни</string>
+    <string name="severe_battery_notification_switch_text">Да се префрли на екстремен „Штедач на батерија“? \n\nОва ќе ги паузира сите апликации што не се неопходни и нивните известувања</string>
+    <string name="severe_low_battery_dialog_switch_action_text">Префрли</string>
+    <string name="extreme_low_battery_notification_title">Многу слаба батерија</string>
+    <string name="extreme_low_battery_notification_text">Телефонот ќе се исклучи ако не го наполните наскоро</string>
 </resources>

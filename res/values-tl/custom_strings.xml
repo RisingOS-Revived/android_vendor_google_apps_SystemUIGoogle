@@ -8,4 +8,15 @@
     <string name="music_controls_no_title">Walang pamagat</string>
     <string name="smartspace_content_desc">Sa isang sulyap</string>
     <string name="smartspace_flight_qr_code">QR code</string>
+
+    <!-- Battery Warnings -->
+    <string name="low_battery_notification_title">%s na lang ang baterya</string>
+    <string name="low_battery_notification_text">I-on ang Pantipid ng Baterya para patagalin ang baterya</string>
+    <string name="low_battery_notification_text_ebs">I-on ang Max na Pantipid ng Baterya para patagalin ang baterya</string>
+    <string name="severe_battery_notification_title">%s na lang ang baterya</string>
+    <string name="severe_battery_notification_text">I-on ang Max na Pantipid ng Baterya. Ipo-pause nito ang lahat ng hindi mahalagang app</string>
+    <string name="severe_battery_notification_switch_text">Lumipat sa Max na Pantipid ng Baterya? \n\nIpo-pause nito ang lahat ng hindi mahalagang app at ang notification ng mga ito</string>
+    <string name="severe_low_battery_dialog_switch_action_text">Lumipat</string>
+    <string name="extreme_low_battery_notification_title">Napakahinang baterya</string>
+    <string name="extreme_low_battery_notification_text">Magsa-shut down ang iyong telepono kung hindi ito icha-charge sa lalong madaling panahon</string>
 </resources>

@@ -8,4 +8,15 @@
     <string name="music_controls_no_title">គ្មាន​ចំណងជើង</string>
     <string name="smartspace_content_desc">មើលមួយភ្លែត</string>
     <string name="smartspace_flight_qr_code">​កូដ QR</string>
+
+    <!-- Battery Warnings -->
+    <string name="low_battery_notification_title">នៅសល់ថ្ម %s</string>
+    <string name="low_battery_notification_text">បើកមុខងារ​សន្សំ​ថ្ម ដើម្បីបង្កើនកម្រិតថាមពលថ្ម</string>
+    <string name="low_battery_notification_text_ebs">បើកមុខងារសន្សំថ្មខ្លាំង ដើម្បីបង្កើនកម្រិតថាមពលថ្ម</string>
+    <string name="severe_battery_notification_title">នៅសល់ថ្ម %s</string>
+    <string name="severe_battery_notification_text">បើក​មុខងារសន្សំថ្មខ្លាំង។ មុខងារនេះនឹងផ្អាកកម្មវិធីមិន​ចាំបាច់ទាំងអស់</string>
+    <string name="severe_battery_notification_switch_text">ប្ដូរទៅមុខងារសន្សំថ្មខ្លាំងឬ? \n\nមុខងារនេះនឹងផ្អាកកម្មវិធីមិន​ចាំបាច់ទាំងអស់ ព្រមទាំងការជូនដំណឹងរបស់កម្មវិធីទាំងនោះ</string>
+    <string name="severe_low_battery_dialog_switch_action_text">ប្ដូរ</string>
+    <string name="extreme_low_battery_notification_title">ជិតអស់ថ្មមែនទែនហើយ</string>
+    <string name="extreme_low_battery_notification_text">ទូរសព្ទ​របស់អ្នក​នឹង​បិទ ប្រសិនបើមិនសាកថ្មឧបករណ៍នេះឱ្យបានឆាប់ទេ</string>
 </resources>

@@ -8,4 +8,15 @@
     <string name="music_controls_no_title">Sense títol</string>
     <string name="smartspace_content_desc">D\'una ullada</string>
     <string name="smartspace_flight_qr_code">Codi QR</string>
+
+    <!-- Battery Warnings -->
+    <string name="low_battery_notification_title">Queda un %s de bateria</string>
+    <string name="low_battery_notification_text">Activa Estalvi de bateria per allargar la durada de la bateria</string>
+    <string name="low_battery_notification_text_ebs">Activa l\'estalvi de bateria extrem per allargar-ne la durada</string>
+    <string name="severe_battery_notification_title">Queda un %s de bateria</string>
+    <string name="severe_battery_notification_text">Activa l\'estalvi de bateria extrem i es posaran en pausa totes les aplicacions no essencials</string>
+    <string name="severe_battery_notification_switch_text">Vols canviar a Estalvi de bateria extrem? \n\nAquesta acció posarà en pausa totes les aplicacions no essencials i les seves notificacions</string>
+    <string name="severe_low_battery_dialog_switch_action_text">Canvia</string>
+    <string name="extreme_low_battery_notification_title">Bateria molt baixa</string>
+    <string name="extreme_low_battery_notification_text">El telèfon s\'apagarà si no el carregues aviat</string>
 </resources>

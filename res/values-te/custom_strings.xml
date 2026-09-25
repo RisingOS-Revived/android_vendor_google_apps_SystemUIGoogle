@@ -8,4 +8,15 @@
     <string name="music_controls_no_title">శీర్షిక లేదు</string>
     <string name="smartspace_content_desc">డైనమిక్ డిస్‌ప్లే</string>
     <string name="smartspace_flight_qr_code">QR కోడ్</string>
+
+    <!-- Battery Warnings -->
+    <string name="low_battery_notification_title">%s బ్యాటరీ మిగిలి ఉంది</string>
+    <string name="low_battery_notification_text">బ్యాటరీ లైఫ్‌ను పొడిగించ‌డానికి బ్యాటరీ సేవర్‌ను ఆన్ చేయండి</string>
+    <string name="low_battery_notification_text_ebs">బ్యాటరీ లైఫ్‌ను పెంచడానికి అధునాతన బ్యాటరీ సేవర్‌ను ఆన్ చేయండి</string>
+    <string name="severe_battery_notification_title">%s బ్యాటరీ మిగిలి ఉంది</string>
+    <string name="severe_battery_notification_text">అధునాతన బ్యాటరీ సేవర్‌ను ఆన్ చేయండి. ఇది అన్ని అనవసరమైన యాప్‌లను పాజ్ చేస్తుంది</string>
+    <string name="severe_battery_notification_switch_text">అధునాతన బ్యాటరీ సేవర్‌కు స్విచ్ అవ్వాలా? \n\nఇది అన్ని అనవసరమైన యాప్‌లు, వాటి నోటిఫికేషన్‌లను పాజ్ చేస్తుంది</string>
+    <string name="severe_low_battery_dialog_switch_action_text">మారండి</string>
+    <string name="extreme_low_battery_notification_title">చాలా తక్కువ బ్యాటరీ ఉంది</string>
+    <string name="extreme_low_battery_notification_text">మీ ఫోన్‌ను త్వరగా ఛార్జ్ చేయకపోతే షట్ డౌన్ అవుతుంది</string>
 </resources>

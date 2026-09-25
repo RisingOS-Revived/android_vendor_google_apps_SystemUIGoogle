@@ -8,4 +8,15 @@
     <string name="music_controls_no_title">უსათაურო</string>
     <string name="smartspace_content_desc">მოკლე მიმოხილვა</string>
     <string name="smartspace_flight_qr_code">QR კოდი</string>
+
+    <!-- Battery Warnings -->
+    <string name="low_battery_notification_title">ბატარეა დატენილია %s-ზე</string>
+    <string name="low_battery_notification_text">ჩართეთ ბატარეის დამზოგი ბატარეის მუშაობის გასახანგრძლივებლად</string>
+    <string name="low_battery_notification_text_ebs">ბატარეის სუპერდამზოგის ჩართვა მისი მუშაობის გასახანგრძლივებლად</string>
+    <string name="severe_battery_notification_title">ბატარეა დატენილია %s-ზე</string>
+    <string name="severe_battery_notification_text">გსურთ ბატარეის სუპერდამზოგის ჩართვა? დაპაუზდება ყველა არაარსებითი აპი და მათი შეტყობინებები</string>
+    <string name="severe_battery_notification_switch_text">გსურთ ბატარეის სუპერდამზოგ რეჟიმზე გადართვა? \n\nდაპაუზდება ყველა არაარსებითი აპი და მათი შეტყობინებები</string>
+    <string name="severe_low_battery_dialog_switch_action_text">გადართვა</string>
+    <string name="extreme_low_battery_notification_title">ბატარეის მუხტი ძალიან დაბალია</string>
+    <string name="extreme_low_battery_notification_text">თუ დროულად არ დატენით, თქვენი ტელეფონი მალე გამოირთვება</string>
 </resources>

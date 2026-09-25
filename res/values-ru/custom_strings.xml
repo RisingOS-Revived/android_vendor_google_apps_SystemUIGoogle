@@ -8,4 +8,15 @@
     <string name="music_controls_no_title">Без названия</string>
     <string name="smartspace_content_desc">Самое главное</string>
     <string name="smartspace_flight_qr_code">QR-код</string>
+
+    <!-- Battery Warnings -->
+    <string name="low_battery_notification_title">Осталось %s заряда батареи</string>
+    <string name="low_battery_notification_text">Включите режим энергосбережения, чтобы увеличить время работы от батареи.</string>
+    <string name="low_battery_notification_text_ebs">Чтобы продлить время работы от батареи, включите режим экстренного энергосбережения.</string>
+    <string name="severe_battery_notification_title">Осталось %s заряда батареи</string>
+    <string name="severe_battery_notification_text">Включите режим экстренного энергосбережения. Все второстепенные приложения будут приостановлены.</string>
+    <string name="severe_battery_notification_switch_text">Включить режим экстренного энергосбережения? \n\nВсе второстепенные приложения и их уведомления будут приостановлены.</string>
+    <string name="severe_low_battery_dialog_switch_action_text">Включить</string>
+    <string name="extreme_low_battery_notification_title">Очень низкий заряд</string>
+    <string name="extreme_low_battery_notification_text">Телефон выключится, если его не зарядить в ближайшее время.</string>
 </resources>

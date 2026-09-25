@@ -8,4 +8,15 @@
     <string name="music_controls_no_title">Атауы жоқ</string>
     <string name="smartspace_content_desc">Қысқаша мәлімет</string>
     <string name="smartspace_flight_qr_code">QR коды</string>
+
+    <!-- Battery Warnings -->
+    <string name="low_battery_notification_title">Батарея қуаты — %s.</string>
+    <string name="low_battery_notification_text">Батарея жұмысының ұзақтығын арттыру үшін батареяны үнемдеу режимін қосыңыз.</string>
+    <string name="low_battery_notification_text_ebs">Батарея жұмысының ұзақтығын арттыру үшін батареяны барынша үнемдеу режимін қосыңыз.</string>
+    <string name="severe_battery_notification_title">Қалған батарея қуаты: %s</string>
+    <string name="severe_battery_notification_text">Батареяны барынша үнемдеу режимін қосыңыз. Барлық маңызды емес қолданбаның жұмысы кідіртіледі.</string>
+    <string name="severe_battery_notification_switch_text">Батареяны барынша үнемдеу режиміне ауысу керек пе? \n\nБарлық маңызды емес қолданбаның жұмысы және хабарландырулары кідіртіледі.</string>
+    <string name="severe_low_battery_dialog_switch_action_text">Ауысу</string>
+    <string name="extreme_low_battery_notification_title">Батарея өте аз</string>
+    <string name="extreme_low_battery_notification_text">Жақын арада зарядталмаса, телефоныңыз өшеді.</string>
 </resources>

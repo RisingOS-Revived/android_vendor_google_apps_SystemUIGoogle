@@ -8,4 +8,15 @@
     <string name="music_controls_no_title">제목 없음</string>
     <string name="smartspace_content_desc">한눈에 보기</string>
     <string name="smartspace_flight_qr_code">QR 코드</string>
+
+    <!-- Battery Warnings -->
+    <string name="low_battery_notification_title">배터리 %s 남음</string>
+    <string name="low_battery_notification_text">절전 모드를 사용 설정하여 배터리 수명을 늘리세요</string>
+    <string name="low_battery_notification_text_ebs">최대 절전 모드를 사용 설정하여 배터리 수명을 늘리시겠습니까?</string>
+    <string name="severe_battery_notification_title">배터리 %s 남음</string>
+    <string name="severe_battery_notification_text">최대 절전 모드를 사용 설정합니다. 이렇게 하면 필수 앱 이외의 모든 앱과 앱의 알림이 일시중지됩니다.</string>
+    <string name="severe_battery_notification_switch_text">최대 절전 모드로 전환하시겠습니까? \n\n이렇게 하면 필수 앱 이외의 모든 앱과 앱의 알림이 일시중지됩니다</string>
+    <string name="severe_low_battery_dialog_switch_action_text">전환</string>
+    <string name="extreme_low_battery_notification_title">배터리 매우 부족</string>
+    <string name="extreme_low_battery_notification_text">충전하지 않으면 휴대전화가 곧 종료됩니다.</string>
 </resources>

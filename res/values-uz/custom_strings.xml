@@ -8,4 +8,15 @@
     <string name="music_controls_no_title">Nomsiz</string>
     <string name="smartspace_content_desc">Eng asosiy</string>
     <string name="smartspace_flight_qr_code">QR kod</string>
+
+    <!-- Battery Warnings -->
+    <string name="low_battery_notification_title">Batareya quvvati %s qoldi</string>
+    <string name="low_battery_notification_text">Batareya quvvatini tejash uchun Quvvat tejash funksiyasini yoqing</string>
+    <string name="low_battery_notification_text_ebs">Batareya quvvatini tejash uchun Batareyani qattiq tejash funksiyasini yoqing</string>
+    <string name="severe_battery_notification_title">Batareya quvvati %s qoldi</string>
+    <string name="severe_battery_notification_text">Batareyani qattiq tejash rejimini yoqish. Barcha asosiy boʻlmagan ilovalar pauza qilinadi.</string>
+    <string name="severe_battery_notification_switch_text">Batareyani qattiq tejash rejimiga almashilsinmi? \n\nBunda barcha keraksiz ilovalar va ularning bildirishnomalari pauza qilinadi</string>
+    <string name="severe_low_battery_dialog_switch_action_text">Almashish</string>
+    <string name="extreme_low_battery_notification_title">Batareya quvvati juda kam</string>
+    <string name="extreme_low_battery_notification_text">Tez orada quvvatlanmasa, telefon oʻchadi</string>
 </resources>

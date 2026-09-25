@@ -8,4 +8,15 @@
     <string name="music_controls_no_title">Няма заглавие</string>
     <string name="smartspace_content_desc">Бърз поглед</string>
     <string name="smartspace_flight_qr_code">QR код</string>
+
+    <!-- Battery Warnings -->
+    <string name="low_battery_notification_title">Оставащ заряд на батерията: %s</string>
+    <string name="low_battery_notification_text">Включете режима за запазване на батерията, за да удължите живота ѝ</string>
+    <string name="low_battery_notification_text_ebs">Включете екстремния режим за запазване на батерията, за да удължите живота ѝ</string>
+    <string name="severe_battery_notification_title">Оставащ заряд на батерията: %s</string>
+    <string name="severe_battery_notification_text">Включване на екстремния режим за запазване на батерията. Всички маловажни приложения ще бъдат поставени на пауза</string>
+    <string name="severe_battery_notification_switch_text">Да се превключи ли към екстремния режим за запазване на батерията? \n\nВсички маловажни приложения и съответните известия ще бъдат поставени на пауза</string>
+    <string name="severe_low_battery_dialog_switch_action_text">Превключване</string>
+    <string name="extreme_low_battery_notification_title">Много изтощена батерия</string>
+    <string name="extreme_low_battery_notification_text">Телефонът ви ще се изключи, ако не бъде зареден скоро</string>
 </resources>

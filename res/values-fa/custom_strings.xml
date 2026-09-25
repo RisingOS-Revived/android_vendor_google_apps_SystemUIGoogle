@@ -8,4 +8,15 @@
     <string name="music_controls_no_title">بی‌عنوان</string>
     <string name="smartspace_content_desc">در یک نگاه</string>
     <string name="smartspace_flight_qr_code">رمزینه پاسخ‌سریع</string>
+
+    <!-- Battery Warnings -->
+    <string name="low_battery_notification_title">%s از شارژ باتری باقی مانده است</string>
+    <string name="low_battery_notification_text">برای افزایش عمر باتری، «بهینه‌سازی باتری» را روشن کنید</string>
+    <string name="low_battery_notification_text_ebs">«نهایت بهینه‌سازی باتری» را برای افزایش عمر باتری روشن کنید</string>
+    <string name="severe_battery_notification_title">%s از شارژ باتری باقی مانده است</string>
+    <string name="severe_battery_notification_text">«نهایت بهینه‌سازی باتری» را روشن کنید. با این کار همه برنامه‌های غیرضروری موقتاً متوقف خواهند شد.</string>
+    <string name="severe_battery_notification_switch_text">به «نهایت بهینه‌سازی باتری» می‌روید؟ \n\nبا این کار همه برنامه‌های غیرضروری و اعلان‌هایشان موقتاً متوقف خواهد شد.</string>
+    <string name="severe_low_battery_dialog_switch_action_text">عوض کردن</string>
+    <string name="extreme_low_battery_notification_title">باتری خیلی ضعیف است</string>
+    <string name="extreme_low_battery_notification_text">اگر تلفنتان را فوراً شارژ نکنید خاموش می‌شود</string>
 </resources>

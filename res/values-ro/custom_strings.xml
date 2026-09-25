@@ -8,4 +8,15 @@
     <string name="music_controls_no_title">Fără titlu</string>
     <string name="smartspace_content_desc">Pe scurt</string>
     <string name="smartspace_flight_qr_code">Cod QR</string>
+
+    <!-- Battery Warnings -->
+    <string name="low_battery_notification_title">Baterie rămasă: %s</string>
+    <string name="low_battery_notification_text">Activează Economisirea bateriei pentru a mări autonomia bateriei</string>
+    <string name="low_battery_notification_text_ebs">Activează Economisirea extremă a bateriei pentru a mări autonomia</string>
+    <string name="severe_battery_notification_title">Baterie rămasă: %s</string>
+    <string name="severe_battery_notification_text">Activează Economisirea extremă a bateriei. Astfel, toate aplicațiile neesențiale vor fi întrerupte.</string>
+    <string name="severe_battery_notification_switch_text">Treci la Economisirea extremă a bateriei? \n\nAstfel, toate aplicațiile neesențiale și notificările asociate vor fi întrerupte.</string>
+    <string name="severe_low_battery_dialog_switch_action_text">Comută</string>
+    <string name="extreme_low_battery_notification_title">Nivel foarte scăzut al bateriei</string>
+    <string name="extreme_low_battery_notification_text">Telefonul se va închide dacă nu este încărcat în curând</string>
 </resources>

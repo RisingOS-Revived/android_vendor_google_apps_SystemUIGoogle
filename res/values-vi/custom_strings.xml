@@ -8,4 +8,15 @@
     <string name="music_controls_no_title">Không có tiêu đề</string>
     <string name="smartspace_content_desc">Xem nhanh</string>
     <string name="smartspace_flight_qr_code">Mã QR</string>
+
+    <!-- Battery Warnings -->
+    <string name="low_battery_notification_title">Còn %s pin</string>
+    <string name="low_battery_notification_text">Bật Trình tiết kiệm pin để kéo dài thời lượng pin</string>
+    <string name="low_battery_notification_text_ebs">Bật Trình siêu tiết kiệm pin để kéo dài thời lượng pin</string>
+    <string name="severe_battery_notification_title">Còn %s pin</string>
+    <string name="severe_battery_notification_text">Hãy bật Trình siêu tiết kiệm pin. Tính năng này sẽ tạm dừng mọi ứng dụng không thiết yếu</string>
+    <string name="severe_battery_notification_switch_text">Chuyển sang Trình siêu tiết kiệm pin? \n\nTính năng này sẽ tạm dừng mọi ứng dụng không thiết yếu cùng các thông báo tương ứng</string>
+    <string name="severe_low_battery_dialog_switch_action_text">Chuyển</string>
+    <string name="extreme_low_battery_notification_title">Pin rất yếu</string>
+    <string name="extreme_low_battery_notification_text">Điện thoại của bạn sẽ tắt nếu không được sạc sớm</string>
 </resources>

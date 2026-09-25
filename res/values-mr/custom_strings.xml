@@ -8,4 +8,15 @@
     <string name="music_controls_no_title">शीर्षक नाही</string>
     <string name="smartspace_content_desc">एक दृष्‍टिक्षेप</string>
     <string name="smartspace_flight_qr_code">QR कोड</string>
+
+    <!-- Battery Warnings -->
+    <string name="low_battery_notification_title">%s बॅटरी शिल्लक आहे</string>
+    <string name="low_battery_notification_text">बॅटरी लाइफ वाढवण्यासाठी बॅटरी सेव्हर सुरू करा</string>
+    <string name="low_battery_notification_text_ebs">बॅटरी लाइफ वाढवण्यासाठी एक्स्ट्रीम बॅटरी सेव्हर सुरू करा</string>
+    <string name="severe_battery_notification_title">%s बॅटरी शिल्लक आहे</string>
+    <string name="severe_battery_notification_text">एक्स्ट्रीम बॅटरी सेव्हर सुरू करा. हे अत्यावश्यक नसणारी सर्व अ‍ॅप्स थांबवेल</string>
+    <string name="severe_battery_notification_switch_text">एक्स्ट्रीम बॅटरी सेव्हर वर स्विच करायचे का? \n\nहे अत्यावश्यक नसलेली सर्व अ‍ॅप्स आणि त्यांच्या सूचनादेखील थांबवेल</string>
+    <string name="severe_low_battery_dialog_switch_action_text">स्विच करा</string>
+    <string name="extreme_low_battery_notification_title">बॅटरी खूप कमी आहे</string>
+    <string name="extreme_low_battery_notification_text">लवकरच चार्ज न केल्यास, तुमचा फोन बंद होईल</string>
 </resources>

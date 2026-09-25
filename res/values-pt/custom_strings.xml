@@ -8,4 +8,15 @@
     <string name="music_controls_no_title">Sem título</string>
     <string name="smartspace_content_desc">Resumo</string>
     <string name="smartspace_flight_qr_code">QR code</string>
+
+    <!-- Battery Warnings -->
+    <string name="low_battery_notification_title">%s de bateria</string>
+    <string name="low_battery_notification_text">Ativar a economia de bateria para prolongar a duração da carga</string>
+    <string name="low_battery_notification_text_ebs">Ativar a economia extrema de bateria para prolongar a duração da carga</string>
+    <string name="severe_battery_notification_title">%s de bateria</string>
+    <string name="severe_battery_notification_text">Ativar a economia extrema de bateria. Pausa todos os apps não essenciais</string>
+    <string name="severe_battery_notification_switch_text">Mudar para a economia extrema de bateria? \n\nPausa todos os apps não essenciais e as notificações deles</string>
+    <string name="severe_low_battery_dialog_switch_action_text">Mudar</string>
+    <string name="extreme_low_battery_notification_title">Bateria muito fraca</string>
+    <string name="extreme_low_battery_notification_text">O smartphone será desligado se não for carregado em breve</string>
 </resources>

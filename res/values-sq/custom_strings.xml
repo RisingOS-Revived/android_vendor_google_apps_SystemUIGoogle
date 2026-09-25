@@ -8,4 +8,15 @@
     <string name="music_controls_no_title">Pa titull</string>
     <string name="smartspace_content_desc">Shkurtimisht</string>
     <string name="smartspace_flight_qr_code">Kodi QR</string>
+
+    <!-- Battery Warnings -->
+    <string name="low_battery_notification_title">Bateria e mbetur: %s</string>
+    <string name="low_battery_notification_text">Aktivizo \"Kursyesin e baterisë\" për të rritur kohëzgjatjen e baterisë</string>
+    <string name="low_battery_notification_text_ebs">Aktivizo \"Kursyesin ekstrem të baterisë\" për të rritur kohëzgjatjen e baterisë</string>
+    <string name="severe_battery_notification_title">Bateria e mbetur: %s</string>
+    <string name="severe_battery_notification_text">Aktivizo \"Kursyesin ekstrem të baterisë\". Kjo do të vendosë në pauzë të gjitha aplikacionet jothelbësore</string>
+    <string name="severe_battery_notification_switch_text">Të kalohet te \"Kursyesi ekstrem i baterisë\"? \n\nKjo do të vendosë në pauzë të gjitha aplikacionet jothelbësore dhe njoftimet e tyre</string>
+    <string name="severe_low_battery_dialog_switch_action_text">Ndërro</string>
+    <string name="extreme_low_battery_notification_title">Nivel shumë i ulët baterie</string>
+    <string name="extreme_low_battery_notification_text">Telefoni do të fiket nëse nuk karikohet së shpejti</string>
 </resources>
