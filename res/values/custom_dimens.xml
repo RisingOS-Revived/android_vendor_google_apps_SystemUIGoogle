@@ -37,4 +37,11 @@
     <dimen name="weather_dream_complication_text_descent_extra_padding">1dp</dimen>
     <dimen name="weather_dream_overlay_complication_line_height">52dp</dimen>
     <dimen name="weather_dream_overlay_complication_text_size">45dp</dimen>
+
+    <!-- Battery Saver Confirmation Dialog Chip -->
+    <dimen name="battery_saver_dialog_button_background_radius">18dp</dimen>
+    <dimen name="battery_saver_dialog_button_background_vertical_insets">6dp</dimen>
+    <dimen name="battery_saver_dialog_button_to_button_space">8dp</dimen>
+    <dimen name="battery_saver_dialog_content_line_height">20sp</dimen>
+    <dimen name="battery_saver_dialog_content_text_size">14sp</dimen>
 </resources>
